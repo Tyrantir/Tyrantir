@@ -14,7 +14,7 @@
 
 - 💻 Developer at **Megasult Sistemas**
 - 🎓 **Information Systems - UTFPR — Câmpus Francisco Beltrão**
-- 🔧 Working with Angular, React, Node.js/NestJS
+- 🔧 Working with Angular, React and Node.js/NestJS
 
 ---
 
