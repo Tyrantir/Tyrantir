@@ -13,7 +13,7 @@
 ### 🚀 Sobre mim
 
 - 💻 Desenvolvedor na **Megasult Sistemas**
-- 🎓 **Sistemas de Informação** - **UTFPR — Câmpus Francisco Beltrão** 
+- 🎓 **Sistemas de Informação - UTFPR — Câmpus Francisco Beltrão** 
 - 🔧 Trabalho com Angular, React, NodeJS/NestJS
 
 ---
