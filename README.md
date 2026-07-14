@@ -8,10 +8,8 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedor na **Megasult Sistemas**, trabalhando no **SGM** (Sistema de Gestão Modular) e no **PRO-SOLUÇÕES**
+- 💻 Desenvolvedor na **Megasult Sistemas**
 - 🎓 Estudante de **Sistemas de Informação** na **UTFPR — Câmpus Francisco Beltrão** (formatura prevista para 2027)
-- 🔧 Atualmente migrando stored procedures legadas para **Node.js/NestJS**, aplicando o padrão **strangler fig**
-- 📍 Southwest do Paraná, Brasil
 
 ---
 
@@ -34,16 +32,10 @@ BullMQ (filas e processamento assíncrono)
 SQL Server · PostgreSQL
 ```
 
-**Outros**
-```
-Piscina (worker threads) · Feature Flags · Arquitetura Hexagonal
-```
-
 ---
 
 ### 📌 Em foco no momento
 
-- 🔄 Migração de arquitetura no ecossistema SGM/PRO-SOLUÇÕES (strangler fig pattern)
 - 📄 Assinatura digital de documentos (`@signpdf`, `node-forge`, certificados self-signed — Lei 14.063/2020)
 - 🎙️ Transcrição de áudio local (Whisper/Vosk)
 - 🤖 Fluxos de desenvolvimento assistido por IA com Claude Code
@@ -54,6 +46,6 @@ Piscina (worker threads) · Feature Flags · Arquitetura Hexagonal
 
 <p align="left">
   <!-- Adicione seus links aqui -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dopfer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="lucas-dopfer@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
