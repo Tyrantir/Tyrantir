@@ -25,7 +25,7 @@
 </p>
 
 **Frontend:** Angular (Standalone Components, Signals)
-**Backend:** Node.js · NestJS · Express · TypeORM · Prisma · BullMQ
+**Backend:** Node.js · NestJS
 **Database:** SQL Server · PostgreSQL
 **Other:** Feature Flags · Hexagonal Architecture
 
