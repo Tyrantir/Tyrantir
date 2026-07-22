@@ -13,7 +13,7 @@
 ### 🚀 About me
 
 - 💻 Developer at **Megasult Sistemas**
-- 🎓 **Information Systems - UTFPR — Câmpus Francisco Beltrão**
+- 🎓 **Information Systems - UTFPR — Campus Francisco Beltrão**
 - 🔧 Working with Angular, React and Node.js/NestJS
 
 ---
